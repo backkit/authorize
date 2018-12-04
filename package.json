@@ -1,0 +1,20 @@
+{
+  "name": "backkit-authorize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "node ./configure.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/backkit/authorize.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/backkit/authorize/issues"
+  },
+  "homepage": "https://github.com/backkit/authorize#readme"
+}
